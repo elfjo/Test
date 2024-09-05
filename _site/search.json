@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to My Quarto Website",
+    "section": "",
+    "text": "Welcome to the homepage of my Quarto project! This is where you can introduce the purpose of the site.\n\n\nHere you can add some important content about your website. Below is an example of a plot.\n#| echo: false library(ggplot2) ggplot(mpg, aes(displ, hwy, color = class)) + geom_point() + theme_minimal()"
+  },
+  {
+    "objectID": "index.html#main-section",
+    "href": "index.html#main-section",
+    "title": "Welcome to My Quarto Website",
+    "section": "",
+    "text": "Here you can add some important content about your website. Below is an example of a plot.\n#| echo: false library(ggplot2) ggplot(mpg, aes(displ, hwy, color = class)) + geom_point() + theme_minimal()"
+  }
+]
