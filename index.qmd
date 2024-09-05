@@ -1,0 +1,18 @@
+---
+title: "Welcome to My Quarto Website"
+---
+
+# Home
+
+Welcome to the homepage of my Quarto project! This is where you can introduce the purpose of the site.
+
+## Main Section
+
+Here you can add some important content about your website. Below is an example of a plot.
+
+```{r}
+#| echo: false
+library(ggplot2)
+ggplot(mpg, aes(displ, hwy, color = class)) + 
+  geom_point() + 
+  theme_minimal()

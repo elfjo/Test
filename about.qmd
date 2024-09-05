@@ -1,0 +1,12 @@
+
+---
+title: "About"
+---
+
+# About Us
+
+This page provides some background information about the website. You can describe your project, team, or any other relevant details here.
+
+## Our Mission
+
+Our mission is to make high-quality content accessible to everyone, using Quarto as a publishing platform.

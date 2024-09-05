@@ -1,0 +1,13 @@
+---
+title: "Contact"
+---
+
+# Contact Us
+
+Feel free to reach out if you have any questions or inquiries.
+
+## Contact Information
+
+- **Email**: info@example.com
+- **Phone**: (123) 456-7890
+- **Address**: 123 Main Street, City, Country
