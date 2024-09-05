@@ -8,23 +8,20 @@
     "author": "John Doe",
     "date": "2024-09-05"
   },
-  "files": [
-    {
-      "path": "index.html",
+  "files": {
+    "index.html": {
       "hash": "sha256-abc123...",
       "size": 1234
     },
-    {
-      "path": "about.html",
+    "about.html": {
       "hash": "sha256-xyz789...",
       "size": 2345
     },
-    {
-      "path": "contact.html",
+    "contact.html": {
       "hash": "sha256-def456...",
       "size": 3456
     }
-  ],
+  },
   "dependencies": {
     "quarto": "1.2.0",
     "r": {
